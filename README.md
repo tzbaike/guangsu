@@ -1,4 +1,4 @@
-# 光速云：全球 IPLC、原生 IP 解锁的高速网络服务  
+# 光速云：全球IPLC、原生IP解锁、V2Ray协议的高速网络服务  
 
 **光速云(guangsu)** (https://gofrom.homes/drsdfv) 是一款主打高速稳定、全球 IPLC 专线、原生 IP 解锁能力的网络服务，适合需要跨境办公、流媒体观看、远程连接以及多设备同步使用的用户。本文将从产品特点、套餐价格、适用场景、稳定性和兼容性等角度，对光速云进行全面介绍，帮助用户更清晰地了解这款网络加速服务。  
 
@@ -104,4 +104,4 @@
 
 ## 光速云官网地址
 
-https://gofrom.homes/drsdfv
+[https://gofrom.homes/drsdfv](https://gofrom.homes/drsdfv)
